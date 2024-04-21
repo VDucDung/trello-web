@@ -5,7 +5,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route exact path="/Boards" element={<Board />} />
+          <Route exact path="/" element={<Board />} />
         </Routes>
       </div>
     </Router>
