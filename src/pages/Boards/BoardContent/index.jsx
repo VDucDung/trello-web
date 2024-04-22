@@ -302,8 +302,6 @@ const BoardContent = () => {
             </Tooltip>
           </Box>
         </Box>
-
-
         {/* Box column */}
         <Box sx={{
           minWidth: '300px',

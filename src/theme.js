@@ -29,16 +29,16 @@ const theme = extendTheme({
       styleOverrides: {
         body: {
           '*::-webkit-scrollbar': {
-            width: '6px',
-            height: '6px'
+            width: '8px',
+            height: '8px'
           },
           '*::-webkit-scrollbar-thumb': {
             backgroundColor: '#dcdde1',
-            borderRadius: '6px'
+            borderRadius: '8px'
           },
           '*::-webkit-scrollbar-thumb:hover': {
             backgroundColor: 'white',
-            borderRadius: '6px'
+            borderRadius: '8px'
           }
         }
       }
